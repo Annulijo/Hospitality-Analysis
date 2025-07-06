@@ -16,3 +16,5 @@
 
 ## Analysis View:
 
+![Analysis](https://github.com/Annulijo/Hospitality-Analysis/blob/main/Dashboard.png)
+---
