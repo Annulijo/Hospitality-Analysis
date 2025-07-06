@@ -11,7 +11,7 @@
 
 ## Data Model:
 
-![Data model](https://github.com/Annulijo/Hospitality-Analysis/blob/main/data_model.png)
+![Data model](https://github.com/Annulijo/Hospitality-Analysis/blob/main/Data_model.png)
 ---
 
 ## Analysis View:
