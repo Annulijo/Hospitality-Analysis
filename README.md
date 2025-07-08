@@ -8,13 +8,14 @@
 
 ## Technology Used
 - **Power BI**: For creating interactive dashboards and reports.
+- **Microsoft Excel**: Handling data
 
 ## Data Model:
 
 ![Data model](https://github.com/Annulijo/Hospitality-Analysis/blob/main/Data_model.png)
 ---
 
-## Analysis View:
+## Overall Analysis View:
 
 ![Analysis](https://github.com/Annulijo/Hospitality-Analysis/blob/main/Dashboard.png)
 ---
